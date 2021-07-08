@@ -10,6 +10,10 @@ If you would like to chat with me about anything, i have a [Twitter](https://twi
 <summary>📈 GitHub Stats</summary>
   
   <br>
-  <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=ImCodist&show_icons=true&theme=dark">
+  <img width="420" height="150" src="https://github-readme-stats.vercel.app/api?username=ImCodist&show_icons=true&theme=dark">
+  <br>
+  <img width="420" height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImCodist&theme=dark">
+
+
   
 </details>
